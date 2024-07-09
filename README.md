@@ -25,7 +25,7 @@ f.) Bookmarks for the PG's <br/>
 g.) Amenties Lists <br/>
 h.) Feedback of the PG's by the users <br/>
 
-## It is a project in my Training of Web Development from Internshala, where i leanrt all the aspects of Web Development such as: <br/>
+## It is a project in my Training of Web Development from Internshala, where i learnt all the aspects of Web Development such as: <br/>
 a.) HTML <br/>
 b.) CSS <br/>
 c.) JavaScript <br/>
