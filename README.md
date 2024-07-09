@@ -1,3 +1,4 @@
+
 #PG-LIFE (The Internshala Project)
 
 It is a website which facilitates you to get rented PG’s around your cities and used the concepts of design reviews with provided amenities where i utilized the concepts of <br/>
@@ -26,7 +27,7 @@ f.) Bookmarks for the PG's <br/>
 g.) Amenties Lists <br/>
 h.) Feedback of the PG's by the users <br/>
 
-## It is a project in my Training of Web Development from Internshala, where i leanrt all the aspects of Web Development such as: <br/>
+It is a project in my Training of Web Development from Internshala, where i leanrt all the aspects of Web Development such as: <br/>
 a.) HTML <br/>
 b.) CSS <br/>
 c.) JavaScript <br/>
@@ -34,6 +35,6 @@ d.) React <br/>
 e.) SQL <br/>
 f.) DBMS <br/>
 
-### This is not a fully deployed project, the more database in often required for the deployment, currently working on it.
+ This is not a fully deployed project, the more database in often required for the deployment, currently working on it.
 <br/>
 Thanks For Visiting!! Follow me for More!.
