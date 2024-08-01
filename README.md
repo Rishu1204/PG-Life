@@ -1,4 +1,4 @@
-# PG-LIFE (The Internshala Project)
+# PG-LIFE 
 <br/>It is a website which facilitates you to get rented PG’s around your cities and used the concepts of design reviews with provided amenities where i utilized the concepts of 
 **React, CSS, Html, JavaScript, and SQL.**
 
